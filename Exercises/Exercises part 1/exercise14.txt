@@ -1,0 +1,6 @@
+if b is a positive number then it will be a + b else a - b
+
+so if b is a negetive nuber it will br a - ( -b ) 
+
+in conclusion the funtion :
+	a + |b| 
