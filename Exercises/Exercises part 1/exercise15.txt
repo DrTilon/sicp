@@ -1,2 +1,2 @@
 When ben will observe with an interpreter that usees applicative-order evaluation he will see that the function will never apply bc the second argument wont be evaluated .
-if he will use an interpreter that uses normal-order evaluation he will gen an eror
+if he will use an interpreter that uses normal-order evaluation he will gen an error
